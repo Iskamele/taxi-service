@@ -4,14 +4,14 @@ This is a Java web application for a taxi service. The project allows users to m
 
 ## Table of Contents
 
--   [Getting Started]()
--   [Usage]()
--   [Features]()
--   [Technologies]()
--   [Contributing]()
--   [License]()
+-   [Getting Started](#gettingStarted)
+-   [Usage](#usage)
+-   [Features](#features)
+-   [Technologies](#technologies)
+-   [Contributing](#contributing)
+-   [License](#license)
 
-## Getting Started
+## Getting Started <a name="gettingStarted"></a>
 
 To get started with the project, you can clone the repository to your local machine and run it on a local web server.
 
@@ -42,7 +42,7 @@ mvn clean package
 5.  Start the Tomcat server and go to [http://localhost:8080/taxi-service](http://localhost:8080/taxi-service) in your web browser.
     
 
-## Usage
+## Usage <a name="usage"></a>
 
 Once you have the project running, you can use the web interface to manage cars, drivers, and manufacturers.
 
@@ -72,7 +72,7 @@ Once you have the project running, you can use the web interface to manage cars,
 -   View all manufacturers: Click the "Display All Manufacturers" button.
 -   Delete a manufacturer: Go to the "Display All Manufacturers" page and click the "Delete" button next to the manufacturer you want to delete.
 
-## Features
+## Features <a name="features"></a>
 
 -   Add, delete, and view cars, drivers, and manufacturers.
 -   Authentication ~~and authorization~~ (in progress) using session management.
@@ -80,7 +80,7 @@ Once you have the project running, you can use the web interface to manage cars,
 -   Connection pooling and error handling.
 -   Custom exception handling.
 
-## Technologies
+## Technologies <a name="technologies"></a>
 
 -   Java Servlet API
 -   JavaServer Pages (JSP)
@@ -88,10 +88,10 @@ Once you have the project running, you can use the web interface to manage cars,
 -   Apache Tomcat
 -   Maven
 
-## Contributing
+## Contributing <a name="contributing"></a>
 
 Contributions to the project are welcome. You can fork the repository, make changes, and submit a pull request.
 
-## License
+## License <a name="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Iskamele/taxi-service/blob/main/LICENSE) file for details.
