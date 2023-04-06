@@ -4,12 +4,12 @@ This is a Java web application for a taxi service. The project allows users to m
 
 ## Table of Contents
 
--   [Getting Started](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#getting-started)
--   [Usage](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#usage)
--   [Features](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#features)
--   [Technologies](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#technologies)
--   [Contributing](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#contributing)
--   [License](https://chat.openai.com/chat/413be1f9-b647-472c-b5b3-20ce98dd4ecc#license)
+-   [Getting Started]()
+-   [Usage]()
+-   [Features]()
+-   [Technologies]()
+-   [Contributing]()
+-   [License]()
 
 ## Getting Started
 
