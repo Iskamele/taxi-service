@@ -2,7 +2,11 @@
 
 This is a Java web application for a taxi service. The project allows users to manage cars, drivers, and manufacturers through a web interface.
 
-## Table of Contents
+## Playground:
+
+http://taxiservice-env-1.eba-ahvpwbfa.eu-north-1.elasticbeanstalk.com/login
+
+## Content:
 
 -   [Getting Started](#gettingStarted)
 -   [Usage](#usage)
@@ -76,7 +80,7 @@ Once you have the project running, you can use the web interface to manage cars,
 
 -   Add, delete, and view cars, drivers, and manufacturers.
 -   Authentication ~~and authorization~~ (in progress) using session management.
--   Password hashing and salting.
+-   Password hashing and salting (PBKDF2WithHmacSHA1).
 -   Connection pooling and error handling.
 -   Custom exception handling.
 
