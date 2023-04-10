@@ -22,7 +22,7 @@ public class AuthenticationFilter implements Filter {
     public void init(FilterConfig filterConfig) throws ServletException {
         String contextPath = filterConfig.getServletContext().getContextPath();
         allowedUrls.add(contextPath + "/login");
-        allowedUrls.add(contextPath + "/drivers/add");
+        allowedUrls.add(contextPath + "/registration");
     }
 
     @Override

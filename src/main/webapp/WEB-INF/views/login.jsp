@@ -28,6 +28,6 @@
     </tr>
 </table>
 <h4 style="color:red">${errorMsg}</h4>
-<h4><a href="${pageContext.request.contextPath}/drivers/add">Don't have an account? Register now.</a></h4>
+<h4><a href="${pageContext.request.contextPath}/registration">Don't have an account? Register now</a></h4>
 </body>
 </html>
