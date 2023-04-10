@@ -86,9 +86,13 @@ Once you have the project running, you can use the web interface to manage cars,
 
 ## Technologies <a name="technologies"></a>
 
+-   Java 11
 -   Java Servlet API
 -   JavaServer Pages (JSP)
 -   Java Database Connectivity (JDBC)
+-   MySQL
+-   HTML
+-   JSTL
 -   Apache Tomcat
 -   Maven
 
