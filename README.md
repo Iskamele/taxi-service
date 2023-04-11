@@ -6,6 +6,11 @@ This is a Java web application for a taxi service. The project allows users to m
 
 http://taxiservice-env-1.eba-ahvpwbfa.eu-north-1.elasticbeanstalk.com/login (I stopped the server so as not to waste the resources of EC2)
 
+### Playground technologies
+
+-   AWS Elastic Beanstalk EC2
+-   AWS RDS
+
 ## Content:
 
 -   [Getting Started](#gettingStarted)
